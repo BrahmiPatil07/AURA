@@ -33,3 +33,4 @@ Executes the tool
 Receives the result
   ↓
 Generates the final response
+AURA is an AI-powered personal assistant
