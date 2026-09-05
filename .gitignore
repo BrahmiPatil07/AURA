@@ -3,3 +3,5 @@ memory.json
 venv/
 __pycache__/
 *.pyc
+documents/*
+!documents/study_notes.txt
