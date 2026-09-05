@@ -1,0 +1,7 @@
+Artificial Intelligence (AI) is a field of computer science that focuses on creating systems that can perform tasks that normally require human intelligence.
+
+Machine Learning (ML) is a subset of AI. It allows computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every task.
+
+Deep Learning is a subset of Machine Learning that uses neural networks with multiple layers to learn complex patterns from large amounts of data.
+
+AI agents are systems that can understand a user's goal, make decisions, use tools, and take actions to complete a task.
